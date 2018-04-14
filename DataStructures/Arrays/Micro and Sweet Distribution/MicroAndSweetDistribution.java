@@ -48,93 +48,63 @@ class PrintWriter{
     }
 }
 class TestClass{
-    static char check(int[][] arr, int i, int j, int m, int n){
-        if(j!=m-1)
-          if(arr[i][j+1]==0)
-            return 'r';
-        if(j!=0)
-          if(arr[i][j-1]==0)
-            return 'l';
-        if(i!=n-1)
-          if(arr[i+1][j]==0)
-            return 'f';
-        if(i!=0)
-          if(arr[i-1][j]==0)
-            return 'b';
-        return 'o';
-    }
     public static void main(String[] args) throws Exception{
         MyScanner sc=new MyScanner();
         PrintWriter out = new PrintWriter();
-        int t=sc.nextInt();
-        while(t-->0){
-            int n=sc.nextInt(), m=sc.nextInt();
-            int[][] arr = new int[n][m];
-            int si=sc.nextInt(), sj=sc.nextInt();
-            si--;sj--;
-            int di=sc.nextInt(), dj=sc.nextInt();
-            di--;dj--;
-            boolean b=true;
-            int i=si,j=sj;
-            for(i=si;;){
-                for(j=sj;;){
-                    arr[i][j]=1;
-                    switch(check(arr,i,j,m,n)){
-                        case 'r':{
-                            arr[i][j+1]=1;
-                            j++;
-                            break;
-                        }
-                        case 'l':{
-                            arr[i][j-1]=1;
-                            j--;
-                            break;
-                        }
-                        case 'f':{
-                            arr[i+1][j]=1;
-                            i++;
-                            break;
-                        }
-                        case 'b':{
-                            arr[i-1][j]=1;
-                            i--;
-                            break;
-                        }
-                        case 'o':{
-                            arr[i][j]=-1;
-                            break;
-                        }
-                    }
-                    if(i==di && j==dj){
-                      b=false;
-                      break;
-                    }
-                }
-                if(!b)
-                  break;
-            }
-            switch(check(arr,di,dj,m,n)){
-              case 'r':{
-                  out.print("Right");
-                  break;
-              }
-              case 'l':{
-                  out.print("Left");
-                  break;
-              }
-              case 'f':{
-                  out.print("Back");
-                  break;
-              }
-              case 'b':{
-                  out.print("Front");
-                  break;
-              }
-              case 'o':{
-                  out.print("Over");
-                  break;
-              }
-            }
-        }
+        int t = sc.nextInt();
+		for(int i=0;i<t;i++){
+			int m = sc.nextInt();
+			int n = sc.nextInt();
+			int sx = sc.nextInt();
+			int sy = sc.nextInt();
+			sx--;
+			sy--;
+			int dx = sc.nextInt();
+			int dy = sc.nextInt();
+			dx--;
+			dy--;
+			String  ans = "";
+			if(sx==0 && sy==0){
+				if(dx%2 == 0)
+					ans = "Right";
+				else
+					ans = "Left";
+				if( (dx%2==0 && dy==n-1) || (dx%2!=0 && dy==0) )
+					ans="Back";
+				if( (dx%2!=0 && dx==m-1 && dy==0) || (dx%2==0 && dx==m-1 && dy==n-1) )
+					ans="Over";
+			}
+			else if(sx==0 && sy==n-1){
+				if(dx%2 == 0)
+					ans = "Left";
+				else
+					ans = "Right";
+				if( (dx%2!=0 && dy==n-1) || (dx%2==0 && dy==0) )
+					ans="Back";
+				if( (dx%2==0 && dx==m-1 && dy==0) || (dx%2!=0 && dx==m-1 && dy==n-1) )
+					ans="Over";
+			}
+			else if(sx==m-1 && sy==0){
+				if((m-1-dx)%2 == 0)
+					ans = "Right";
+				else
+					ans = "Left";
+				if( ((m-1-dx)%2==0 && dy==n-1) || ((m-1-dx)%2!=0 && dy==0) )
+					ans="Front";
+				if( ((m-1-dx)%2!=0 && dx==0 && dy==0) || ((m-1-dx)%2==0 && dx==0 && dy==n-1) )
+					ans="Over";
+			}
+			else if(sx==m-1 && sy==n-1){
+				if((m-1-dx)%2 == 0)
+					ans = "Left";
+				else
+					ans = "Right";
+				if( ((m-1-dx)%2!=0 && dy==n-1) || ((m-1-dx)%2==0 && dy==0) )
+					ans="Front";
+				if( ((m-1-dx)%2==0 && dx==0 && dy==0) || ((m-1-dx)%2!=0 && dx==0 && dy==n-1) )
+					ans="Over";
+			}
+			out.print(ans);
+		}
     }
 }
