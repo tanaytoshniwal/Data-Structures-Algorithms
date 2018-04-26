@@ -1,5 +1,7 @@
 class NQueens{
+  static int solutionNumber = 0;
   static void print(int[][] arr){
+    System.out.println("Solution:"+(++solutionNumber));
     for(int i=0;i<arr.length;i++){
       for(int j=0;j<arr.length;j++){
         System.out.print(arr[i][j]+" ");
@@ -22,7 +24,6 @@ class NQueens{
   static void solve(int[][] arr, int col, int n){
     if(col>=n){
       print(arr);
-      System.exit(0);
     }
     else{
       for(int i=0;i<n;i++){
@@ -35,10 +36,19 @@ class NQueens{
     }
   }
   public static void main(String[] args){
-    int[][] arr = {{0, 0, 0, 0},
-                   {0, 0, 0, 0},
-                   {0, 0, 0, 0},
-                   {0, 0, 0, 0}};
-    solve(arr, 0, 4);
+    System.out.println("Input size of the array:");
+    int n = 0;
+    int[][] arr;
+    try{
+      n = new java.util.Scanner(System.in).nextInt();
+      if(n<0)
+        throw new NumberFormatException("InvalidNumber");
+    }
+    catch(Exception e){
+      System.out.println("InvalidNumber");
+      System.exit(0);
+    }
+    arr = new int[n][n];
+    solve(arr, 0, n);
   }
 }
