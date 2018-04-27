@@ -18,6 +18,16 @@ class MinHeap {
     private int getParentIndex(int childIndex){
         return (childIndex-1)/2;
     }
+    private int getIndex(int item){
+        int index=-1;
+        for(int i=0;i<size;i++){
+            if(elements[i] == item){
+                index = i;
+                break;
+            }
+        }
+        return index;
+    }
 
     public int capacity(){
         return capacity;
@@ -77,6 +87,17 @@ class MinHeap {
         elements[size] = item;
         size++;
         heapifyUp();
+    }
+
+    public void delete(int item){
+        if(size == 0)
+            throw new IllegalStateException();
+        int index = getIndex(item);
+        if(index == -1)
+            throw new IllegalStateException();
+        elements[index] = elements[size-1];
+        size--;
+        heapifyDown();
     }
 
     public void heapifyUp(){
