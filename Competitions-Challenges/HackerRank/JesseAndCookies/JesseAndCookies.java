@@ -54,18 +54,16 @@ class Solution {
                 return false;
         return true;
     }
+    static int c=0;
     static int[] query(int[] A) throws Exception{
         Arrays.sort(A);
-        int i=0;
-        while(A[i]==-1){i++;}
-        int a=A[i+0];
-        int b=A[i+1];
-        A[i+0]=-1;A[i+1]=-1;
-        A[i] = a+b+b;
+        int a=A[c+0];
+        int b=A[c+1];
+        A[c+0]=-1;
+        A[c+1] = a+b+b;
         return A;
     }
     static int cookies(int k, int[] A) {
-        int c=0;
         try{
             while(!check(k, A)){
                 A=query(A);
