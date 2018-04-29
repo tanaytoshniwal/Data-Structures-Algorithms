@@ -15,7 +15,7 @@ class TestClass {
   }
   public static void main(String[] args) throws Exception {
     //let there be 3 colors:
-    //                  RED=1, GREEN=2, BLUE=3 
+    //                  RED=1, GREEN=2, BLUE=3
     int[][] adjacencyMatrix = {{0, 1, 1, 0, 1, 1},
                                {1, 0, 1, 1, 0, 1},
                                {1, 1, 0, 1, 1, 0},
@@ -26,7 +26,7 @@ class TestClass {
     int[] c = {1, 2, 3};
     Arrays.fill(x, -1);
     for(int i=0;i<x.length;i++){
-      x[i] = fill(adjacencyMatrix, i, x, c[0], 3, 4);
+      x[i] = fill(adjacencyMatrix, i, x, c[0], 3, adjacencyMatrix.length);
     }
     for(int i=0;i<x.length;i++){
       System.out.println("x["+i+"] = "+x[i]);
