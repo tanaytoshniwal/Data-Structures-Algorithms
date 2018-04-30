@@ -46,12 +46,12 @@ public class TestClass {
 	}
 
 	private static int get(char[] arr, int k, int i, int j) {
-		int nonZero = ((j-k) > -1)?(j-k):0;
-		for(int z = nonZero; z<=j; z++){
+		int range = ((j-k)>-1)?(j-k):0;
+		for(int z = range; z<=j; z++){
 			if(arr[z]=='T')return z;
 		}
-		nonZero = ((j+k)>=arr.length)? arr.length-1:(j+k);
-		for(int z = j; z<=nonZero; z++){
+		range = ((j+k)>=arr.length)? arr.length-1:(j+k);
+		for(int z = j; z<=range; z++){
 			if(arr[z]=='T')return z;
 		}
 		return -1;
