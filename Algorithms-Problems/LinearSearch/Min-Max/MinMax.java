@@ -61,8 +61,8 @@ class TestClass {
             arr[i]=sc.nextLong();
             sum+=arr[i];
         }
-        long min=999999999;
-        long max=-999999999;
+        long max=Long.MIN_VALUE;
+        long min=Long.MAX_VALUE;
         for(int i=0;i<n;i++){
             long temp = sum-arr[i];
             if(temp>max)
