@@ -1,10 +1,10 @@
 import java.util.*;
-class MinHeap {
+class MaxHeap {
     private int capacity;
     private int size = 0;
     private int[] elements;
 
-    public MinHeap(int capacity){
+    public MaxHeap(int capacity){
         this.capacity = capacity;
         elements = new int[capacity];
     }
@@ -102,7 +102,7 @@ class MinHeap {
 
     public void heapifyUp(){
         int index = size-1;
-        while(hasParent(index) && (parent(index) > elements[index])){
+        while(hasParent(index) && (parent(index) < elements[index])){
             swap(getParentIndex(index), index);
             index = getParentIndex(index);
         }
@@ -111,20 +111,20 @@ class MinHeap {
     public void heapifyDown(){
         int index = 0;
         while(hasLeftChild(index)){
-            int smallerChildIndex = getLeftChildIndex(index);
-            if(hasRightChild(index) && leftChild(index) > rightChild(index))
-                smallerChildIndex = getRightChildIndex(index);
-            if(elements[index] < elements[smallerChildIndex])
+            int largerChildIndex = getLeftChildIndex(index);
+            if(hasRightChild(index) && leftChild(index) < rightChild(index))
+                largerChildIndex = getRightChildIndex(index);
+            if(elements[index] > elements[largerChildIndex])
                 break;
             else
-                swap(index, smallerChildIndex);
-            index = smallerChildIndex;
+                swap(index, largerChildIndex);
+            index = largerChildIndex;
         }
     }
 }
 class TestClass {
     public static void main(String[] args){
-        System.out.print("Input size of min-heap:");
+        System.out.print("Input size of max-heap:");
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         try{
@@ -135,7 +135,7 @@ class TestClass {
             System.out.println(e.getMessage());
             System.exit(0);
         }
-        MinHeap heap = new MinHeap(n);
+        MaxHeap heap = new MaxHeap(n);
         System.out.println("Input "+n+" elements:");
         while(n-->0)
             heap.add(sc.nextInt());
