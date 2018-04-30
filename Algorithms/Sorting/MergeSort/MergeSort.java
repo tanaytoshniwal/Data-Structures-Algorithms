@@ -10,20 +10,15 @@ class MergeSort {
         for(int i=0;i<n2;i++)
             arr2[i] = arr[m+1+i];
         int i = 0, j = 0, k = l;
-        while(i<n1 && j<n2){
-            if(arr1[i]<arr2[j]){
+        while(i<n1 && j<n2)
+            if(arr1[i]<arr2[j])
                 arr[k++] = arr1[i++];
-            }
-            else{
+            else
                 arr[k++] = arr2[j++];
-            }
-        }
-        while(i<n1){
+        while(i<n1)
             arr[k++]=arr1[i++];
-        }
-        while(j<n2){
+        while(j<n2)
             arr[k++]=arr2[j++];
-        }
         return arr;
     }
     public static int[] mergeSort(int[] arr, int l, int r) {
