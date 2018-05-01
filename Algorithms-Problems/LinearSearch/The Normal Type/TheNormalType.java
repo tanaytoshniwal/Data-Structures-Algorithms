@@ -32,22 +32,16 @@ class InputReader {
 class OutputWriter {
     private BufferedWriter bw = null;
     public OutputWriter(){
-        try{
-            bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(FileDescriptor.out),"ASCII"), 512);
-        }
-        catch(IOException e){
-            e.printStackTrace();
-        }
+        bw = new BufferedWriter(new OutputStreamWriter(System.out));
     }
-    public void print(String str){
-        try{
-            bw.write(str);
-            bw.write('\n');
-            bw.flush();
-        }
-        catch(IOException e){
-            e.printStackTrace();
-        }
+    public void print(Object obj) throws IOException{
+        bw.append(obj.toString());
+    }
+    public void println(Object obj) throws IOException{
+        print(obj+"\n");
+    }
+    public void flush() throws IOException{
+        bw.flush();
     }
 }
 class TestClass {
@@ -75,6 +69,7 @@ class TestClass {
             }
             ans += n-j;
         }
-        out.print(ans+"");
+        out.println(ans+"");
+        out.flush();
     }
 }
