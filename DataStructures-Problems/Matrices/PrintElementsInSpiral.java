@@ -31,7 +31,7 @@ class PrintElementsInSpiral {
             c+=tl-tr;
             j++;
             tb--;
-            for(i=tb;i>= tu;i--)
+            for(i=tb;i>=tu;i--)
                 System.out.print(arr[i][j]+" ");
             c+=tu-tb;
             i++;
