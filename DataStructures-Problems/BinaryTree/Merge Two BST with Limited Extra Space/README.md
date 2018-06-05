@@ -16,3 +16,4 @@ Given two Binary Search Trees(BST), print the elements of both BSTs in sorted fo
     Output:
         1 2 3 4 5 6
 ```
+<p align="center"><> with &hearts; by Tanay Toshniwal&copy;</p>
