@@ -1,2 +1,2 @@
 # Competitive-Programming
-📌 Solution of competitive programming problems, code templates, Data Structures and Algorithms, hackathons, interviews and much more. I push at least one commit daily to this repository. 📚 💻
+:octocat: Solution of competitive programming problems and challenges, Data Structures, Data Structure implementations, Algorithms and Interview Questions. :pushpin: :computer: :books:
