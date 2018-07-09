@@ -12,4 +12,12 @@ def min_cost_path(arr, x, y):
 
 input_matrix = [[1, 2, 3], [4, 8, 2], [1, 5, 3]]
 
+import time
+
+init = time.time()
+
 print(min_cost_path(input_matrix, 2, 2))
+
+end = time.time()
+
+print((end-init)*1000)
