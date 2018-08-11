@@ -23,7 +23,7 @@ class Queue{
         tail->next = temp;
         tail = tail->next;
     }
-     pop(){
+    int pop(){
         if(head == NULL){
             cout<<"Empty";
             return -1;
@@ -51,6 +51,5 @@ int main(){
     q.print();
     q.pop();
     q.print();
-
     return 0;
 }
