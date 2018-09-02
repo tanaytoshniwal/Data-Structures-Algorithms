@@ -22,10 +22,9 @@ class LinkedList:
 
     def print(self):
         current = self.root
-        while current.next is not None:
+        while current is not None:
             print(current.data)
             current = current.next
-        print(current.data)
 
 if __name__ == "__main__":
     
