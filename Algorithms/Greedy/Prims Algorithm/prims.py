@@ -12,8 +12,17 @@ def find_min(key, is_picked):
     return min_index
 
 def print_mst(picked_vertices):
+    print('{start_vertex}\t{cost}\t{end_vertex}'.format(start_vertex = "X", cost = "cost", end_vertex = "Y"))
+    print('-----------------------')
+
+    sum = 0
+
     for i in range(1, len(picked_vertices)):
-        print('{0} - {1}'.format(picked_vertices[i], graph[i][picked_vertices[i]]))
+        print('{0}\t{1}\t{2}'.format(picked_vertices[i], graph[i][picked_vertices[i]], i))
+        sum += graph[i][picked_vertices[i]]
+
+    print('-----------------------')
+    print('Total cost of MST: {cost}'.format(cost = sum))
 
 def mst(graph):
 
