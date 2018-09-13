@@ -4,5 +4,5 @@ Prim's Algorithm is a Greedy Algorithm used to find the miminum cost spanning tr
 
 Here's our given undirected and weighted graph:
 <p align="center">
-<img src="">
+<img src="https://github.com/tanaytoshniwal/Competitive-Programming/blob/master/Algorithms/Greedy/Prims%20Algorithm/graph.jpg">
 </p>
