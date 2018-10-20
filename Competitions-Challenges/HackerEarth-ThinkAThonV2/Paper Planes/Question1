@@ -1,0 +1,163 @@
+Two paper planes are thrown upwards simultaneously. You are provided with the following data:
+
+The flight time of both planes is denoted by 
+t
+t (seconds).
+The initial coordinates of the first plane are denoted by (
+b
+bx, 
+b
+by, 
+b
+bz).
+The initial velocity of the first plane is denoted by (
+b
+v
+bvx, 
+b
+v
+bvy, 
+b
+v
+bvz).
+The initial coordinates of the second plane are denoted by (
+m
+mx, 
+m
+my, 
+m
+mz).
+The initial velocity of the second plane is denoted by (
+m
+v
+mvx, 
+m
+v
+mvy, 
+m
+v
+mvz).
+Write a program to find the minimum distance between the two planes during their flight. Let the jury answer be 
+A
+A and let your answer be 
+B
+B. Your answer will be considered correct if 
+|
+A
+−
+B
+|
+≤
+10
+−
+6
+|A−B|≤10−6
+
+Input format
+
+First line: 
+t
+t
+Second line: Three space-separated integers (denoting 
+b
+bx, 
+b
+by, and 
+b
+bz)
+Third line: Three space-separated integers (denoting 
+b
+v
+bvx, 
+b
+v
+bvy, and 
+b
+v
+bvz)
+Fourth line: Three space-separated integers (denoting 
+m
+mx, 
+m
+my, and 
+m
+mz )
+Fifth line: Three space-separated integers (denoting 
+m
+v
+mvx, 
+m
+v
+mvy, and 
+m
+v
+mvz)
+Output format
+
+Print the minimum distance between the two planes during their flight.
+
+Constraints
+
+0
+≤
+t
+≤
+10000
+0≤t≤10000 
+ 10000
+≤
+b
+x
+,
+b
+y
+,
+b
+z
+≤
+10000
+10000≤bx,by,bz≤10000
+ 10000
+≤
+b
+v
+x
+,
+b
+v
+y
+,
+b
+v
+z
+≤
+10000
+10000≤bvx,bvy,bvz≤10000
+ 10000
+≤
+m
+x
+,
+m
+y
+,
+m
+z
+≤
+10000
+10000≤mx,my,mz≤10000
+ 10000
+≤
+m
+v
+x
+,
+m
+v
+y
+,
+m
+v
+z
+≤
+10000
