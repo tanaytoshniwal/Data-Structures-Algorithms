@@ -1,0 +1,2 @@
+# Repeated String
+View the problem-statement.pdf [here](https://github.com/tanaytoshniwal/Competitive-Programming/tree/master/Competitions-Challenges/HackerRank-Interview%20Preparation%20Kit/Repeated%20String/problem-statement.pdf)
