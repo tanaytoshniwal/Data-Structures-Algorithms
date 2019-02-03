@@ -1,0 +1,2 @@
+# Repeated String
+View the problem-statement.pdf [here](https://github.com/tanaytoshniwal/Competitive-Programming/blob/master/Interview-Preparation/HackerRank-Interview%20Preparation%20Kit/Arrays/2D%20Arrays-DS/problem-statement.pdf)

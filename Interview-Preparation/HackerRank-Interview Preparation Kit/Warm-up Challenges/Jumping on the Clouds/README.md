@@ -1,2 +1,2 @@
 # Jumping on the Clouds
-View the problem-statement.pdf [here](https://github.com/tanaytoshniwal/Competitive-Programming/tree/master/Competitions-Challenges/HackerRank-Interview%20Preparation%20Kit/Jumping%20on%20the%20Clouds/problem-statement.pdf)
+View the problem-statement.pdf [here](https://github.com/tanaytoshniwal/Competitive-Programming/blob/master/Interview-Preparation/HackerRank-Interview%20Preparation%20Kit/Warm-up%20Challenges/Jumping%20on%20the%20Clouds/problem-statement.pdf)
