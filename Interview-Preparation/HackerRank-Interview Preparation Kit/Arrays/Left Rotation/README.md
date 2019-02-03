@@ -1,0 +1,2 @@
+# Left Rotation
+View the problem-statement.pdf [here](https://github.com/tanaytoshniwal/Competitive-Programming/blob/master/Interview-Preparation/HackerRank-Interview%20Preparation%20Kit/Arrays/Left%20Rotation/problem-statement.pdf)
