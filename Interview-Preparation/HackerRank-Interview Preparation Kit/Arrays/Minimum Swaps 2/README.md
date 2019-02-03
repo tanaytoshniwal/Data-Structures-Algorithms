@@ -1,0 +1,2 @@
+# Minimum Swaps 2
+View the problem-statement.pdf [here](https://github.com/tanaytoshniwal/Competitive-Programming/blob/master/Interview-Preparation/HackerRank-Interview%20Preparation%20Kit/Arrays/Minimum%20Swaps%202/problem-statement.pdf)
