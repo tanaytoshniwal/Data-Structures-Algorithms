@@ -1,0 +1,2 @@
+# Making Anagrams
+View the problem-statement.pdf [here](https://github.com/tanaytoshniwal/Competitive-Programming/blob/master/Interview-Preparation/HackerRank-Interview%20Preparation%20Kit/String%20Manipulation/Making%20Anagrams/problem-statement.pdf)

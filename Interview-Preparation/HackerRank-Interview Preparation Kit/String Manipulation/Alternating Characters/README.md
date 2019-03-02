@@ -1,0 +1,2 @@
+# Alternating Characters
+View the problem-statement.pdf [here](https://github.com/tanaytoshniwal/Competitive-Programming/blob/master/Interview-Preparation/HackerRank-Interview%20Preparation%20Kit/String%20Manipulation/Alternating%20Characters/problem-statement.pdf)
