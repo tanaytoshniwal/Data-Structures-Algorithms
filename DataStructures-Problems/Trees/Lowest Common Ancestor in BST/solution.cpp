@@ -21,7 +21,7 @@ Node* insert(Node* root, int data){
 }
 
 void inOrder(Node* root){
-    if(!root){
+    if(root){
         inOrder(root->left);
         cout<<root->data<<" ";
         inOrder(root->right);
@@ -46,7 +46,7 @@ int main(){
     insert(root, 70); 
     insert(root, 60); 
     insert(root, 80);
-    inOrder(root);
+    //inOrder(root);
 
     cout << lowestCommonAncestor(root, 60, 80 )->data;
     return 0;
