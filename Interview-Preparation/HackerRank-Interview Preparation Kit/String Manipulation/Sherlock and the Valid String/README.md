@@ -1,0 +1,2 @@
+# Sherlock and the Valid String
+View the problem-statement.pdf [here](https://github.com/tanaytoshniwal/Competitive-Programming/blob/master/Interview-Preparation/HackerRank-Interview%20Preparation%20Kit/String%20Manipulation/Sherlock%20and%20the%20Valid%20String/problem-statement.pdf)
