@@ -1,3 +1,4 @@
 *.class
 *.out
 *.exe
+.vscode
