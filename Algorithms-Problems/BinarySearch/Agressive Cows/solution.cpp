@@ -1,38 +1,39 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
-ll check(ll* arr, ll n, ll c, ll d){
-    c--;
-    for(int i=1;i<n;i++){
-        if(c==0) break;
-        if(arr[i]-arr[i-1] >= d && c>=0){
-            c--;
-        }
-    }
-    return (c==0)?d:-1;
-}
-ll binarySearch(ll* arr, ll n, ll c, ll l, ll r){
-    if(l<r){
+ll binarySearch(ll* arr, int n, int c, ll l, ll r){
+    ll ans = -1;
+    while(l<=r){
         ll mid = (l+r)/2;
-        ll res = check(arr, n, c, mid);
-        if(res != -1){
-            return binarySearch(arr, n, c, mid+1, r);
+        ll count = 1;
+        int last = 0;
+        for(int i=1;i<n;i++){
+            if(arr[i]-arr[last]>=mid){
+                count++;
+                last = i;
+            }
+            if(c == count) break;
         }
-        else{
-            return binarySearch(arr, n, c, l, mid-1);
+        if(c == count){
+            l = mid+1;
+            ans = mid;
         }
-        return mid;
+        else {
+            r = mid-1;
+        }
     }
+    return ans;
 }
 int main(){
     int t;
     cin >> t;
     while(t--){
-        ll n, c;
+        int n, c;
         cin >> n >> c;
         ll *arr = new ll[n];
         for(int i=0;i<n;i++) cin >> arr[i];
         sort(arr, arr+n);
-        cout << binarySearch(arr, n, c, 0, arr[n-1]);
+        cout << binarySearch(arr, n, c, 0, arr[n-1]-arr[0]) << endl;
     }
+    return 0;
 }
