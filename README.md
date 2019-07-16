@@ -21,11 +21,11 @@ Contains some popular **Ad-hoc Problems**
 
 |   Topic/Question  |   C++ |   Java    |   Python  |
 |---------|:---------:|:---------:|:---------:|
-|   Circular List of Students   |   [x] |   [ ] |   [ ] |
-|   Equalize|   [x]   | [ ] |   [ ]   |
-|   Interesting Sequences|  [x] |   [ ] |   [ ]    |
-|   Light up the Bulbs| [x] |   [ ]   | [ ] |
-|   Rectangular Area|   [x] |   [ ] |   [ ]   |
-|   Winning Strategy|   [x] |   [ ] |   [ ]   |
+|   Circular List of Students   |   <ul><li> - [x]</li><ul> |   <ul><li> - [ ]</li><ul> |   <ul><li> - [ ]</li><ul> |
+|   Equalize|   <ul><li> - [x]</li><ul> |   <ul><li> - [ ]</li><ul> |   <ul><li> - [ ]</li><ul> |
+|   Interesting Sequences|   <ul><li> - [x]</li><ul> |   <ul><li> - [ ]</li><ul> |   <ul><li> - [ ]</li><ul> |
+|   Light up the Bulbs|   <ul><li> - [x]</li><ul> |   <ul><li> - [ ]</li><ul> |   <ul><li> - [ ]</li><ul> |
+|   Rectangular Area|   <ul><li> - [x]</li><ul> |   <ul><li> - [ ]</li><ul> |   <ul><li> - [ ]</li><ul> |
+|   Winning Strategy|   <ul><li> - [x]</li><ul> |   <ul><li> - [ ]</li><ul> |   <ul><li> - [ ]</li><ul> |
 ------------------------------------------------------------------------------
 <p align="center">< /> with &hearts; by Tanay Toshniwal&copy;</p>
