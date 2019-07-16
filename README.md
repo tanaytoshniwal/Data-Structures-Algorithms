@@ -191,5 +191,86 @@ Contains some popular **Algorithms** and related problems.
     |   Print Subsequences   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Return Subsequences   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     ------------------------------------------------------------------------------
-------------------------------------------------------------------------------
+
+### Competitions-Challenges:
+
+Contains some Questions from Online **Competitions and Challenges**.
+
++ **CodeChef**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Chef Restaurant   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   CNOTE   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   CodeChef-OCT17 : A Balanced Contest   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Compiler   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Discrepancies in the Voters List   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Hussain Set   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   K-Concatenation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Permutation and Palindrome   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Sudoku   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Variation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **Google Code Jam**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   You Can Go Your Own Way   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    |   Foregone Solution   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **HackerEarth**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Fate of the Mormont   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   MaxMul   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Network Overflow   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **HackerEarth-CodeArena**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Competition 1   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **HackerEarth-CodeEnigma**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Anushka   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Chug   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Number Pattern   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Star   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   String Manipulation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Stuck In A Maze   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   SubSequence   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Sum It Up   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   TTT   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **HackerEarth-DecemberCircuits17**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Left Or Right   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **HackerEarth-ThinkAThonV2**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Paper Planes   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **HackerRank**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Operations In Heap   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Jesse And Cookies   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
 <p align="center">< /> with &hearts; by Tanay Toshniwal&copy;</p>
