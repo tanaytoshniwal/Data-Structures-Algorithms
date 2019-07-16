@@ -16,14 +16,16 @@
 ## Content
 
 ### Ad-hoc-Problems:
+
 Contains some popular **Ad-hoc Problems**
-|Topic/Question|C++|Java|Python|
-|:-|:-:|:-:|:-:|
-|Circular List of Students| [x] | [ ] | [ ] |
-|Equalize| [x] | [ ] | [ ] |
-|Interesting Sequences| [x] | [ ] | [ ] |
-|Light up the Bulbs| [x] | [ ] | [ ] |
-|Rectangular Area| [x] | [ ] | [ ] |
-|Winning Strategy| [x] | [ ] | [ ] |
+
+|   Topic/Question  |   C++ |   Java    |   Python  |
+|---------|:---------:|:---------:|:---------:|
+|   Circular List of Students   |   [x] |   [ ] |   [ ] |
+|   Equalize|   [x]   | [ ] |   [ ]   |
+|   Interesting Sequences|  [x] |   [ ] |   [ ]    |
+|   Light up the Bulbs| [x] |   [ ]   | [ ] |
+|   Rectangular Area|   [x] |   [ ] |   [ ]   |
+|   Winning Strategy|   [x] |   [ ] |   [ ]   |
 ------------------------------------------------------------------------------
 <p align="center">< /> with &hearts; by Tanay Toshniwal&copy;</p>
