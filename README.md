@@ -19,13 +19,13 @@
 
 Contains some popular **Ad-hoc Problems**
 
-|   Topic/Question  |   C++ |   Java    |   Python  |
+|   Topic/Question  |   C |   C++ |   Java    |   Python  |
 |---------|:---------:|:---------:|:---------:|
-|   Circular List of Students   |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
-|   Equalize|   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
-|   Interesting Sequences|   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
-|   Light up the Bulbs|   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
-|   Rectangular Area|   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
-|   Winning Strategy|   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Circular List of Students   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Equalize|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Interesting Sequences|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Light up the Bulbs|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Rectangular Area|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Winning Strategy|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
 ------------------------------------------------------------------------------
 <p align="center">< /> with &hearts; by Tanay Toshniwal&copy;</p>
