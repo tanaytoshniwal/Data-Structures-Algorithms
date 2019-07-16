@@ -20,7 +20,7 @@
 Contains some popular **Ad-hoc Problems**
 
 |   Topic/Question  |   C |   C++ |   Java    |   Python  |
-|---------|:---------:|:---------:|:---------:|
+|---------|:---------:|:---------:|:---------:|:---------:|
 |   Circular List of Students   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
 |   Equalize|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
 |   Interesting Sequences|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
