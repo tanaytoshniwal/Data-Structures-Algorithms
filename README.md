@@ -191,6 +191,7 @@ Contains some popular **Algorithms** and related problems.
     |   Print Subsequences   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Return Subsequences   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     ------------------------------------------------------------------------------
+------------------------------------------------------------------------------
 
 ### Competitions-Challenges:
 
@@ -272,5 +273,184 @@ Contains some Questions from Online **Competitions and Challenges**.
     |   Operations In Heap   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Jesse And Cookies   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     ------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+### Compiler Design
+
+Contains some **Compiler Design** Course Programs.
+
+|   Topic/Question  |   C |   C++ |   Java    |   Python  |
+|---------|:---------:|:---------:|:---------:|:---------:|
+|   Elimination of Left Factoring   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Elimination of Left Recursion|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Find First and Follow|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Find Lead and Trail|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Infix to Postfix|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Lexical Analyzer|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+------------------------------------------------------------------------------
+
+### Data-Structures
+
+Contains implementation of some popular **Data Structures** and related problems.
+
++ **Binary Search Tree**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Binary Search Tree Implementation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **Binary Tree**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Binary Tree Implementation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **Circular Linked List**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Circular Linked List Implementation   |  <ul><li> [x] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **Data Structures Problems**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Circular Linked List Implementation   |  <ul><li> [x] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **Doubly Linked List**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Doubly Linked List Implementation   |  <ul><li> [x] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **Heaps**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Max Heap Implementation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Min Heap Implementation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **Linked List**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Linked List Implementation   |  <ul><li> [x] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **Queues**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Queue Implementation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **Stacks**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Stack Implementation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    ------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+
+### Fast IO
+
+Contains some **Competitive Programming** tips for faster Input/Output.
+
+|   Topic/Question  |   C |   C++ |   Java    |   Python  |
+|---------|:---------:|:---------:|:---------:|:---------:|
+|   C++   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Java|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+------------------------------------------------------------------------------
+
+### Interview Preparation
+
+Contains some **Interview Preparation** related programs.
+
++ **HackerRank-Interview Preparation Kit**
+    + **Arrays**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   2D Arrays-DS   |  <ul><li> [x] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Left Rotation|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    |   Minimum Swaps 2|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
+    + **String Manipulation**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Alternating Characters   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Making Anagrams|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Sherlock and the Valid String|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
+    + **Warm-up Challenges**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Counting Valleys   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    |   Jumping on the Clouds|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Repeated String|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    |   Sock Merchant|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    ------------------------------------------------------------------------------
+
++ **Practice-Questions**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Count Distinct Array Elements   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Euler Circuit in a graph|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Jason Fights Monsters|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Lucky Four   |  <ul><li> [x] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Migratory Birds|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Order of a String|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Pattern Freq   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    |   Permutations Of a String|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Triangle of Stars|  <ul><li> [x] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    ------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------
+
+### Patterns
+
+Contains some popular **Patterns** related programs.
+
+|   Topic/Question  |   C |   C++ |   Java    |   Python  |
+|---------|:---------:|:---------:|:---------:|:---------:|
+|   Pattern 1   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Pattern 2|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+|   Pattern 3|  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+------------------------------------------------------------------------------
+
+### Project Euler
+
+Contains some **Project Euler** programs.
+
+|   Topic/Question  |   C |   C++ |   Java    |   Python  |
+|---------|:---------:|:---------:|:---------:|:---------:|
+|   Problem 1   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 2|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 3|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 4   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 5|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 6|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 7   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 8|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 9|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 10   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 11|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 12|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 13   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 14|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 15|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+|   Problem 16|  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+------------------------------------------------------------------------------
 
 <p align="center">< /> with &hearts; by Tanay Toshniwal&copy;</p>
