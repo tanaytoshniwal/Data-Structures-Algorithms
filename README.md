@@ -12,7 +12,9 @@
     + [Interview Preparation](#Interview-Preparation)
     + [Patterns](#Patterns)
     + [Project Euler](#Project-Euler)
+------------------------------------------------------------------------------
 ## Content
+
 ### Ad-hoc-Problems:
 Contains some popular **Ad-hoc Problems**
 |Topic/Question|C++|Java|Python|
@@ -23,4 +25,5 @@ Contains some popular **Ad-hoc Problems**
 |Light up the Bulbs| [x] | [ ] | [ ] |
 |Rectangular Area| [x] | [ ] | [ ] |
 |Winning Strategy| [x] | [ ] | [ ] |
+------------------------------------------------------------------------------
 <p align="center">< /> with &hearts; by Tanay Toshniwal&copy;</p>
