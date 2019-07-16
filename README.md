@@ -316,9 +316,136 @@ Contains implementation of some popular **Data Structures** and related problems
 
 + **Data Structures Problems**
 
+    + **Arrays**
+
+        |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+        |---------|:---------:|:---------:|:---------:|:---------:|
+        |   Add Alternate Elements of 2D Array   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Akash and the Assignment   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Converting a Sequence to Another   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+        |   Find the String   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Fredo and Large Numbers   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
+        |   Honey Bees   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Left or Right   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Little Jhool and World Tour   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
+        |   Micro and Array Update   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
+        |   Micro and Sweet Distribution   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Professor and his Operations   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
+        |   Remove Duplicates   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Roy and Symmetric Logos   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Saul Goodman's Problem Statement   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Sorting the Skills   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Submatrix Updates   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Symmetric Matrix   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   The Wealthy Landlord   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Unique Subarrays   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        ------------------------------------------------------------------------------
+
+    + **Graphs**
+
+        |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+        |---------|:---------:|:---------:|:---------:|:---------:|
+        |   Monk at the Graph Factory   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+        ------------------------------------------------------------------------------
+
+    + **Linked List**
+
+        |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+        |---------|:---------:|:---------:|:---------:|:---------:|
+        |   Add Two Numbers Represented by a Linked List   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Add K Nodes   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Check Palindrome   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Delete From End   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Delete From Start   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Delete Node with Key   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Delete Node without Head   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Detect Loop   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Find Mid Element   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Flatten a Linked List   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Get N<sup>th</sup> Node From Last   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Implement Queue Using Linked List   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Intersection Point in Y Shaped Linked List   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Make Maximum Number   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Merge Two Sorted Linked List   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Merge Sort   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+        |   Merge Two List   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+        |   Pairwise Swap Elements   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Remove Loop   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Reverse a Linked List   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Reverse in group of given size   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Rotate Counter Clockwise   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Stack Implementation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        ------------------------------------------------------------------------------
+
+    + **Matrices**
+
+        |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+        |---------|:---------:|:---------:|:---------:|:---------:|
+        |   Print Elements in Spiral   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Print Elements in ZigZag   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        ------------------------------------------------------------------------------
+
+    + **Stack**
+
+        |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+        |---------|:---------:|:---------:|:---------:|:---------:|
+        |   Facitoo and Bridge   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        ------------------------------------------------------------------------------
+
+    + **Strings**
+
+        |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+        |---------|:---------:|:---------:|:---------:|:---------:|
+        |   Different Names   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+        |   Find the String   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Love of Characters   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Non Repeating Character   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   String Occurence   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        ------------------------------------------------------------------------------
+
+    + **Trees**
+
+        |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+        |---------|:---------:|:---------:|:---------:|:---------:|
+        |   Bottom View of Binary Tree   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   BST to Tree with sum of all Keys   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Check if 2 trees are identical   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Check if tree is BST   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Check if tree is symmetric   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Correct a Binary Tree   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Diameter of a Binary Tree   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Distinct Count   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Find Max Subtree Sum   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   K<sup>th</sup> Latgest Element   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   K<sup>th</sup> Smallest Element   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Lowest Common Ancestor in BST   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Maximum path Sum   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Merge 2 BST with Limited Extra Space   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Monk and his Friends   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+        |   Monk watching Fight   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Number of Balanced BST   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Print Left View of Binary Tree   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Print Level Order in Spiral Form   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Print Path with given Sum   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Print Tree in Vertical Order   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Yatin plays PUBG   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        ------------------------------------------------------------------------------
+
+    + **Tree Traversal**
+
+        |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+        |---------|:---------:|:---------:|:---------:|:---------:|
+        |   InOrder Traversal   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Level Order Traversal   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Post Order Traversal   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Pre Order Traversal   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        ------------------------------------------------------------------------------
+
     |   Topic/Question  |   C |   C++ |   Java    |   Python  |
     |---------|:---------:|:---------:|:---------:|:---------:|
-    |   Circular Linked List Implementation   |  <ul><li> [x] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Facitoo and College   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Facitoo and Bridge   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Facitoo and Melon   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     ------------------------------------------------------------------------------
 
 + **Doubly Linked List**
