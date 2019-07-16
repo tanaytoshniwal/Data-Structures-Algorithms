@@ -21,11 +21,11 @@ Contains some popular **Ad-hoc Problems**
 
 |   Topic/Question  |   C++ |   Java    |   Python  |
 |---------|:---------:|:---------:|:---------:|
-|   Circular List of Students   |   :+1: |  <ul><li>- [x] </li></ul>  |    |
-|   Equalize|   :+1: |    |    |
-|   Interesting Sequences|   :+1: |    |    |
-|   Light up the Bulbs|   :+1: |    |    |
-|   Rectangular Area|   :+1: |    |    |
-|   Winning Strategy|   :+1: |    |    |
+|   Circular List of Students   |   <ul><li>- [x] </li></ul> |  <ul><li>- [ ] </li></ul>  |    |
+|   Equalize|   <ul><li>- [x] </li></ul> |    |    |
+|   Interesting Sequences|   <ul><li>- [x] </li></ul> |    |    |
+|   Light up the Bulbs|   <ul><li>- [x] </li></ul> |    |    |
+|   Rectangular Area|   <ul><li>- [x] </li></ul> |    |    |
+|   Winning Strategy|   <ul><li>- [x] </li></ul> |    |    |
 ------------------------------------------------------------------------------
 <p align="center">< /> with &hearts; by Tanay Toshniwal&copy;</p>
