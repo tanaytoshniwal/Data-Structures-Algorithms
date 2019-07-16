@@ -21,7 +21,7 @@ Contains some popular **Ad-hoc Problems**
 
 |   Topic/Question  |   C++ |   Java    |   Python  |
 |---------|:---------:|:---------:|:---------:|
-|   Circular List of Students   |   <ul><li> [x] </li></ul> |  <ul><li>- [ ] </li></ul>  |  <ul><li>- [ ] </li></ul>  |
+|   Circular List of Students   |    [x]  |  <ul><li>- [ ] </li></ul>  |  <ul><li>- [ ] </li></ul>  |
 |   Equalize|   <ul><li>- [x] </li></ul> |  <ul><li>- [ ] </li></ul>  |  <ul><li>- [ ] </li></ul>  |
 |   Interesting Sequences|   <ul><li>- [x] </li></ul> |  <ul><li>- [ ] </li></ul>  |  <ul><li>- [ ] </li></ul>  |
 |   Light up the Bulbs|   <ul><li>- [x] </li></ul> |  <ul><li>- [ ] </li></ul>  |  <ul><li>- [ ] </li></ul>  |
