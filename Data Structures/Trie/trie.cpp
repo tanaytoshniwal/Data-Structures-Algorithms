@@ -40,6 +40,33 @@ bool search(Node* root, string str){
     return temp!=NULL && temp->isWord;
 }
 
+bool hasNoChildren(Node* root){
+    for(int i=0;i<SIZE;i++)
+        if(root->children[i])
+            return false;
+    return true;
+}
+
+Node* remove(Node* root, string str, int depth = 0){
+    if(!root) return NULL;
+    if(str.length() == depth){
+        root->isWord = false;
+        if(hasNoChildren(root)){
+            delete root;
+            root = NULL;
+        }
+        return root;
+    }
+    int index = str[depth] - 'a';
+    root->children[index] = remove(root->children[index], str, depth+1);
+
+    if(hasNoChildren(root) && !root->isWord){
+        delete root;
+        root = NULL;
+    }
+    return root;
+}
+
 int main(){
     cout << "Input Number of Words: ";
     int n;
@@ -63,5 +90,10 @@ int main(){
     else{
         cout << "It doesn't exist!";
     }
+    
+    cout << "Enter word to remove: ";
+    string x;
+    cin >> x;
+    remove(root, x);
     return 0;
 }
