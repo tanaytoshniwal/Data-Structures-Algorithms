@@ -8,6 +8,8 @@ bool isRotation(string s1, string s2){
     return isSubstr(s1, s2);
 }
 int main(){
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
     string s1, s2;
     cin >> s1 >> s2;
     cout << isRotation(s1, s2);
