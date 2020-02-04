@@ -1,12 +1,18 @@
 #include "../linkedlist.h"
 
-bool detectLoop(Node* head){
-    if(head == NULL || head->next == NULL) return false;
-    Node* slow = head, *fast = head->next;
+Node* detectLoop(Node* head){
+    if(head == NULL || head->next == NULL) return NULL;
+    Node* slow = head, *fast = head;
     while(fast != NULL && fast->next != NULL){
-        if(slow == fast) return true;
         slow = slow->next;
         fast = fast->next->next;
+        if(slow == fast) break;
     }
-    return false;
+    if(fast == NULL || fast->next == NULL) return NULL;
+    slow = head;
+    while(slow != fast){
+        slow = slow->next;
+        fast = fast->next;
+    }
+    return slow;
 }
