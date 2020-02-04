@@ -54,6 +54,22 @@ bool isPalindrome2(Node* head){
     return true;
 }
 
+pair<Node*, bool> isPalindrome3Helper(Node* head, int length){
+    if(length <= 1){
+        return (length == 1)?make_pair(head->next, true):make_pair(head, true);
+    }
+    auto res = isPalindrome3Helper(head->next, length-2);
+    if(!res.second || res.first == NULL) return res;
+    res.second = head->data == res.first->data;
+    res.first = res.first->next;
+    return res;
+}
+
+bool isPalindrome3(Node* head, int length){
+    auto res = isPalindrome3Helper(head, length);
+    return res.second;
+}
+
 int main(){
     ios::sync_with_stdio(false);
     cin.tie(NULL);
@@ -66,6 +82,7 @@ int main(){
         list.add(temp);
     }
     // cout << isPalindrome(list.head) << endl;
-    cout << isPalindrome2(list.head) << endl;
+    // cout << isPalindrome2(list.head) << endl;
+    cout << isPalindrome3(list.head, n) << endl;
     return 0;
 }
