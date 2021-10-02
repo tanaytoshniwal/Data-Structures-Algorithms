@@ -1,6 +1,10 @@
 # Competitive Programming
 :pushpin: :books: Solution of competitive programming problems and challenges, Project Euler Solutions, Data Structures, Data Structure implementations, Algorithms and Interview Questions.
 
+## Contribution Guidelines
+
+Please read our [Contribution Guidelines](https://github.com/tanaytoshniwal/Data-Structures-Algorithms/blob/master/CONTRIBUTING.md) before you contribute to this project.
+
 ## Index
 + [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
     + [Ad-hoc Problems](#Ad-hoc-Problems)
