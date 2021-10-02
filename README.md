@@ -1,9 +1,21 @@
 # Competitive Programming
 :pushpin: :books: Solution of competitive programming problems and challenges, Project Euler Solutions, Data Structures, Data Structure implementations, Algorithms and Interview Questions.
 
+## How to Contribute:
+
+- Fork this repo
+- Open an [Github Issue](https://github.com/tanaytoshniwal/Data-Structures-Algorithms/issues) regarding the changes you're going to make
+- Make the changes in the Forked repo
+- **MAKE SURE TO ADD YOUR CHANGES IN README.md FILE!!!**
+- Raise a PR against this Repo!
+
+That's all you need to know about the process now it's your turn to help us improve the repository, thank you again!
+
 ## Contribution Guidelines
 
 Please read our [Contribution Guidelines](https://github.com/tanaytoshniwal/Data-Structures-Algorithms/blob/master/CONTRIBUTING.md) before you contribute to this project.
+
+------------------------------------------------------------------------------
 
 ## Index
 + [Data Structures and Algorithms](#Data-Structures-and-Algorithms)
