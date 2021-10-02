@@ -1,0 +1,1 @@
+print("\ntime: " + str(1000 * (fin-init))+"ms")
