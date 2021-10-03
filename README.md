@@ -143,7 +143,7 @@ Contains some popular **Algorithms** and related problems.
     |   Count BSTs   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Edit Distance   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
     |   Egg Dropping Puzzle   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
-    |   Fibonacci Numbers   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    |   Fibonacci Numbers   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
     |   K-Divisibility of Array   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Kadane's Algorithm   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Longest Bitonic Subarray   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
@@ -228,6 +228,7 @@ Contains some Questions from Online **Competitions and Challenges**.
     |   Permutation and Palindrome   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Sudoku   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Variation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Video Game   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
     ------------------------------------------------------------------------------
 
 + **Codezen**
