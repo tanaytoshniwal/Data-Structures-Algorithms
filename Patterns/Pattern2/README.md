@@ -1,9 +1,9 @@
 # Pattern 2
-## Input
+### Input
 ```
     5
 ```
-## Output
+### Output
 ```
     1
     1 2
