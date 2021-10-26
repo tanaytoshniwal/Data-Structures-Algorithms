@@ -33,5 +33,6 @@ class TestClass {
                 l=mid+1;
         }
         System.out.println(l);
+        sc.close();
     }
 }
